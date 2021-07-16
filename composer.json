@@ -1,0 +1,14 @@
+{
+    "name": "faceless/catalog",
+    "description": "Deals with product catalogs for vendors / sellers",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "N. Lilitha Mathangana",
+            "email": "lightlitha@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
